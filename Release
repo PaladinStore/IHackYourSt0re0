@@ -1,8 +1,15 @@
 Origin: PaladinStore
-Label: PaladinStore
+
+Label: demo
+
 Suite: stable
-Version: 1.0
-Codename: ios
+
+Version: 0.1
+
+Codename: repo
+
 Architectures: iphoneos-arm
+
 Components: main
+
 Description: Paladins - Beta
